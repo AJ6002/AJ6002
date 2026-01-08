@@ -1,3 +1,5 @@
+[![Banner](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
+
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Akshaysjadhav)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/akshaysjadhav2003)
