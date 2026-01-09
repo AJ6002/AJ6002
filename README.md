@@ -40,6 +40,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AJ6002&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=AJ6002&theme=react-dark&area=true&hide_border=true)](https://github.com/AJ6002)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AJ6002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
